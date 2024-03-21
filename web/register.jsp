@@ -16,6 +16,8 @@
         <form action ="welcome.jsp">
             <table>
                 <tr><td>Full Name:</td> <td><input type ="text" placeholder ="Enter name" name ="name" required="true"></td></tr>
+                 <tr><td>Full Name:</td> <td><input type ="text" placeholder ="Enter name" name ="name" required="true"></td></tr>
+
                 <tr><td>Email:</td></td> <td><input type ="text" placeholder ="Enter email" name ="email" required="true"></td></tr>
                 <tr><td>Password:</td></td> <td><input type ="password" placeholder ="Enter password" name ="password" required="true"></td></tr>
                 <tr><td>Date of Birth:</td> <td><input type ="date" placeholder ="Enter date" name ="dob" required="true"></td></tr>
